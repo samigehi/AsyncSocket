@@ -24,7 +24,7 @@ A java library which used [SocketChannels](http://docs.oracle.com/javase/1.5.0/d
 
 ```gradle
 dependencies {
-  compile 'com.samigehi:socket:1.0'
+  implementation 'com.samigehi:socket:1.0'
 }
 ```
 
